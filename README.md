@@ -8,7 +8,7 @@ This script allows you to open multiple URLs from a CSV file in a web browser, w
 ✅ Automatically close each tab before opening the next URL.  
 
 ## **Installation**  
-- Download the `URL_Opener.exe` file.  
+- Download the [`URL_Opener.exe`](URL_Opener.exe) file.  
 - Place your CSV file in the same directory.  
 - Double-click `URL_Opener.exe` to start.  
 
