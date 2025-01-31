@@ -25,7 +25,36 @@ https://openai.com
 🎯 **Enter** → Skip to the next URL.  
 🛑 **Esc** → Stop the script.  
 
-## **How the Script Work** 
+## **How the Script Work**
+<details>
+  <summary>📦 Requirements to Run in Python</summary>
+
+  To run this script using Python, you need the following:
+
+  ### **1️⃣ Install Python and pip**
+  - **Python**  
+    - Download it from [python.org](https://www.python.org/downloads/)  
+    - Or install it directly from the **Microsoft Store** (search for "Python" in the Store)  
+  - **pip** (Comes pre-installed with Python, but you can update it with:  
+    ```sh
+    python -m pip install --upgrade pip
+    ```
+
+  ### **2️⃣ Install Required Libraries**
+  If you're running the script as a `.py` file instead of the `.exe`, install the following dependencies:
+
+  ```sh
+  pip install keyboard
+  ```
+
+  - **csv** → Built-in Python module (no installation required).  
+  - **webbrowser** → Built-in Python module (no installation required).  
+  - **time** → Built-in Python module (no installation required).  
+  - **threading** → Built-in Python module (no installation required).  
+  - **keyboard** → Requires manual installation (`pip install keyboard`).  
+
+</details>
+
 <details>
   <summary>🔍 How the Script Works (Detailed Explanation)</summary>
 
