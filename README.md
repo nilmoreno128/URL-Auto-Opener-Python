@@ -20,6 +20,7 @@ https://example.com
 https://github.com
 https://openai.com
 ```
+You can download an example CSV file: [`URL_Example.csv`](URL_Example.csv)
 
 ## **Controls**  
 🎯 **Enter** → Skip to the next URL.  
